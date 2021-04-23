@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://khadijagardezi.github.io/csb-emzuo/static/css/main.d6f5f580.chunk.css",
+    "main.js": "https://khadijagardezi.github.io/csb-emzuo/static/js/main.5e008d4d.chunk.js",
+    "main.js.map": "https://khadijagardezi.github.io/csb-emzuo/static/js/main.5e008d4d.chunk.js.map",
+    "runtime-main.js": "https://khadijagardezi.github.io/csb-emzuo/static/js/runtime-main.b82fa854.js",
+    "runtime-main.js.map": "https://khadijagardezi.github.io/csb-emzuo/static/js/runtime-main.b82fa854.js.map",
+    "static/js/2.15e31719.chunk.js": "https://khadijagardezi.github.io/csb-emzuo/static/js/2.15e31719.chunk.js",
+    "static/js/2.15e31719.chunk.js.map": "https://khadijagardezi.github.io/csb-emzuo/static/js/2.15e31719.chunk.js.map",
+    "index.html": "https://khadijagardezi.github.io/csb-emzuo/index.html",
+    "static/css/main.d6f5f580.chunk.css.map": "https://khadijagardezi.github.io/csb-emzuo/static/css/main.d6f5f580.chunk.css.map",
+    "static/js/2.15e31719.chunk.js.LICENSE.txt": "https://khadijagardezi.github.io/csb-emzuo/static/js/2.15e31719.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b82fa854.js",
+    "static/js/2.15e31719.chunk.js",
+    "static/css/main.d6f5f580.chunk.css",
+    "static/js/main.5e008d4d.chunk.js"
+  ]
+}
